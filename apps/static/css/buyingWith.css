@@ -1,0 +1,66 @@
+.menu2-leftbarWrap {
+    width: 315px;
+}
+
+.menu2-leftbar-filterWrap {
+    width: 251px;
+    margin: 32px;
+}
+
+.menu2-leftbar-filter-all {
+    width: 251px;
+    height: 32px;
+    text-align: center;
+    background-color: #efeeee;
+}
+
+.menu2-leftbar-filter {
+    width: 125.5px;
+    height: 32px;
+    text-align: center;
+    background-color: #efeeee;
+}
+
+#wooman {
+    color: #1d997f;
+}
+
+#woncheon {
+    color: #ee9a5a;
+}
+
+#maetan {
+    color: #da4b3b;
+}
+
+#dorm {
+    color: #a08ec2;
+}
+
+.menu2-adWrap {
+    width: 251px;
+    margin: 64px 32px 0 32px;
+}
+
+.menu2-ad {
+    width: 251px;
+    font-size: 14px;
+    background-color: #efeeee;
+    padding: 10px;
+}
+
+.menu2-ad-title {
+    font-size: 16px;
+}
+
+.menu2-ad-content {
+    color: #474843;
+}
+
+.menu2-ad-event {
+    color: #e84618;
+}
+
+#menu2-ad-btn2 {
+    float:right;
+}

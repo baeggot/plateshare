@@ -1,0 +1,30 @@
+.introduce-leftbarWrap {
+    width: 251px;
+}
+
+.introduce-leftbar {
+    width: 187px;
+    margin: 64px 64px 0 64px;
+    border: 1px solid #58514f;
+}
+
+.introduce-leftbar-line {
+    width: 123px;
+    height: 1px;
+    background-color: #000000;
+    margin: 0 auto;
+}
+
+.introduce-leftbar-title {
+    width: 123px;
+    height: 30px;
+    margin: 15 32 15 32px;
+}
+
+.introduce-leftbar-subtitle {
+    width: 123px;
+    height: 25px;
+    margin: 10px 32px 10px 32px;
+    color: #58514f;
+    font-size: 14px;
+}

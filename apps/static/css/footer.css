@@ -1,0 +1,42 @@
+.footerWrap {
+    padding: 26px 0 20px 0;
+}
+
+.footer-top {
+    background-color: #37bc9b;
+    height: 1px;
+    width: 1024px;
+    margin: 0 auto 5px auto;
+}
+
+.footer {
+    width: 1024px;
+    height: 50px;
+    margin: 0 auto;
+    display: -webkit-box;
+
+}
+
+.footer-info {
+    margin: 0 5px 0 59px;
+    width: 571px;
+    font-size: 11px;
+}
+
+.footer-contact {
+    margin: 0 59px 0 0;
+    width: 315px;
+    display: -webkit-box;
+    font-size: 12px;
+}
+
+.footer-contact-1 {
+    width: 150px;
+    margin: 35px 15px 0 0;
+}
+
+.footer-contact-2 {
+    width: 150px;
+    margin: 35px 0 0 0;
+}
+
